@@ -38,14 +38,14 @@ body{
     50%{
    opacity: 1;
 
-   background: url("https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111.jpg");
+   background: url("https://wallpaperaccess.com/full/393735.jpg");
    background-position: center;
    background-attachment: fixed;
     }
     100%{
 opacity: 1;
 transform: scale(1) translateY(0px);
-background: url("https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111.jpg");
+background: url("https://wallpaperaccess.com/full/393735.jpg");
 background-size: contain;
 background-repeat: no-repeat;
 background-position: center;
